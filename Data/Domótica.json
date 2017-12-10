@@ -1,0 +1,211 @@
+[
+    {
+        
+        "index" : 0,
+        "encabezado" : "En que ciudad se encuentra el edificio más inteligente de Colombia?",
+        "opciones" : [
+            "Bogotá",
+            "Medellín",
+            "Cali",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta" : 0,
+        "seleccionada" : false
+    },
+
+    {   
+    
+        "index" : 1,
+        "encabezado" : "La domótica le puede servir a todas las?",
+        "opciones" : [
+            "Aerolineas",
+            "Personas",
+            "Empresas",
+            "Fábricas"
+        ],
+        "respuesta" : 1,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 2,
+        "encabezado" : "Una desventaja que tiene la domótica?",
+        "opciones" : [
+            "Tecnología obsoleta",
+            "Rentabilidad",
+            "Alto costo",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 3,
+        "encabezado" : "Los _________ de gas, son un sistema que comunican una fuga de gas",
+        "opciones" : [
+            "Sensores",
+            "Cilindros",
+            "Tanques",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 4,
+        "encabezado" : "El __________ es una desventaja para el ser humano ",
+        "opciones" : [
+            "Planeta",
+            "Conocimiento",
+            "Dinero",
+            "Entorpecimiento"
+        ],
+        "respuesta": 3,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 5,
+        "encabezado" : "Con la domótica podemos manejar la ________ para tener un mejor ambiente?  ",
+        "opciones" : [
+            "Salud",
+            "Economía",
+            "Calefacción",
+            "Cultura"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 6,
+        "encabezado" : "El _________, nos permite manejar nuestra vivienda a distancia?  ",
+        "opciones" : [
+            "Periférico",
+            "Monitor",
+            "Servidor",
+            "Celular"
+        ],
+        "respuesta": 3,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 7,
+        "encabezado" : "La ________, permite el uso simultáneo de la electricidad, la electrónica y la informática.  ",
+        "opciones" : [
+            "Agricultura",
+            "Domótica",
+            "Política",
+            "Religión"
+        ],
+        "respuesta": 1,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 8,
+        "encabezado" : "La domótica nos permite _________ el encendido de las luces, puertas, electrodomésticos.",
+        "opciones" : [
+            "Instalar",
+            "Cambiar",
+            "Automatizar",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 9,
+        "encabezado" : "El detector de ________, sirve para contrarrestar los incendios de un edificio.",
+        "opciones" : [
+            "Movimiento",
+            "Virus",
+            "Humo",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 10,
+        "encabezado" : "La domótica permite la teleasistencia y el servicio médico a los __________.",
+        "opciones" : [
+            "Incapacitados",
+            "Médicos",
+            "Hombres",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 11,
+        "encabezado" : "La _________ domótica, nos permite proteger nuestros bienes materiales.",
+        "opciones" : [
+            "Policia",
+            "Seguridad",
+            "Detección",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 1,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 12,
+        "encabezado" : "La domótica nos permite economizar ________",
+        "opciones" : [
+            "Tiempo",
+            "Dinero",
+            "Energía",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 13,
+        "encabezado" : "Quien es el padre de la domótica?",
+        "opciones" : [
+            "Juliio Verne",
+            "Joel Spira",
+            "Alejandro Dumas",
+            "Bruce Dickinson"
+        ],
+        "respuesta": 1,
+        "seleccionada" : false
+    },
+
+    {
+    
+        "index" : 14,
+        "encabezado" : "Con la domótica puede activar los sistemas de ______, contra incendios, fugas de gas y agua.",
+        "opciones" : [
+            "Alarma",
+            "Encendido",
+            "Apagado",
+            "Correo"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    }
+]

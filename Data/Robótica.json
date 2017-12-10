@@ -1,0 +1,281 @@
+[
+    {
+        
+        "index" : 0,
+        "encabezado" : "Cómo se llaman los robots que imitan a los animales?",
+        "opciones" : [
+            "Androides",
+            "Zoomórficos",
+            "Robopets",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta" : 1,
+        "seleccionada" : false
+    },
+
+    {   
+        
+        "index" : 1,
+        "encabezado" : "Quienes le unieron brazos mecánicos a las estatuas de sus dioses en la antigüedad?",
+        "opciones" : [
+            "Sumerios",
+            "Egipcios",
+            "Semitas",
+            "Romanos"
+        ],
+        "respuesta" : 1,
+        "seleccionada" : false
+    },
+
+    {
+        
+        "index" : 2,
+        "encabezado" : "El robot más evolucionado creado en Japón en el año 2011 es?",
+        "opciones" : [
+            "Dolly",
+            "Axxon",
+            "Asimo",
+            "Eva"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+    {
+        
+        "index" : 3,
+        "encabezado" : "50 _________, es lo que pesa Asimo",
+        "opciones" : [
+            "Gramos",
+            "Kilos",
+            "Libras",
+            "Toneladas"
+        ],
+        "respuesta": 1,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 4,
+        "encabezado" : "La empresa que creó Asimo se llama?  ",
+        "opciones" : [
+            "Nasa",
+            "Lux",
+            "Avixa",
+            "Honda"
+        ],
+        "respuesta": 3,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 5,
+        "encabezado" : "A qué planeta fué el robot Vinking creado por la NASA?  ",
+        "opciones" : [
+            "Marte",
+            "Jupiter",
+            "Venus",
+            "Saturno"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 6,
+        "encabezado" : "Cuál fué el primer robot animal creado por el hombre?  ",
+        "opciones" : [
+            "Gato",
+            "Liebre",
+            "Perro",
+            "Oso"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 7,
+        "encabezado" : "Qué empresa japonesa creó el perro AIBO?  ",
+        "opciones" : [
+            "AIWA",
+            "Canon",
+            "SONY",
+            "Komatsu"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 8,
+        "encabezado" : "____________, es una película de ficción inspirada en la robótica, creada en los Estados Unidos en el año 1987?",
+        "opciones" : [
+            "Wall - E",
+            "Yo Robot",
+            "Robocop",
+            "CHAPPiE"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 9,
+        "encabezado" : "Quién inició la robótica actual en 1801 creando la máquina textil programable?",
+        "opciones" : [
+            "Stephen Hawking",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Joseph Jacquard"
+        ],
+        "respuesta": 3,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 10,
+        "encabezado" : "Los _____________, son robots que se paran y actuan como los seres humanos",
+        "opciones" : [
+            "Androides",
+            "Manbots",
+            "Bicentenarios",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 11,
+        "encabezado" : "Los robots que se emplean para el transporte en los almacenes y fábricas se llaman?",
+        "opciones" : [
+            "De Carga",
+            "Móviles",
+            "Androides",
+            "Humanoides"
+        ],
+        "respuesta": 1,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 12,
+        "encabezado" : "Las máquinas creadas por el hombre con Inteligencia Artificial se llaman?",
+        "opciones" : [
+            "Robots",
+            "Biomecánicas",
+            "Humanoides",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 13,
+        "encabezado" : "Qué escritor checo utilizó por primera vez la palabra robot en 1817?",
+        "opciones" : [
+            "Karel Capek",
+            "Milan Kundera",
+            "Michal Viewegh",
+            "Jan Skácel"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 14,
+        "encabezado" : "Una de las desventajas de los robots es el _________, de la mano de obra?",
+        "opciones" : [
+            "Desplazamiento",
+            "Alto costo",
+            "Esfuerzo",
+            "Gran entrenamiento"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 15,
+        "encabezado" : "Los robots que se utilizan para salvar las vidas se llaman?",
+        "opciones" : [
+            "Robots médicos",
+            "Life robots",
+            "Androides",
+            "IA Robots"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 16,
+        "encabezado" : "Los robots que se utilizan en la industria automotriz son los?",
+        "opciones" : [
+            "Androides",
+            "Brazos",
+            "Humanoides",
+            "IA Robots"
+        ],
+        "respuesta": 1,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 17,
+        "encabezado" : "En que país fué creado el robot Asimo?",
+        "opciones" : [
+            "Alemania",
+            "Estados Unidos",
+            "China",
+            "Japón"
+        ],
+        "respuesta": 3,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 18,
+        "encabezado" : "El primer robot comercial sacado al mercado fué?",
+        "opciones" : [
+            "EBO",
+            "Asimo",
+            "Versatrán",
+            "Tambo"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 19,
+        "encabezado" : "Un robot diseñado para imitar los movimientos de los seres humanos es un?",
+        "opciones" : [
+            "Humanoide",
+            "Asimo",
+            "BioMecánico",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    }
+]

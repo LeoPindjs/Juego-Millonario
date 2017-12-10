@@ -1,0 +1,210 @@
+[
+    {
+        "index" : 0,
+        "encabezado" : "De qué color es el cobre?",
+        "opciones" : [
+            "Dorado",
+            "Rogizo",
+            "Plateado",
+            "Negro"
+        ],
+        "respuesta" : 1,
+        "seleccionada" : false
+    },
+
+    {   
+        "index" : 1,
+        "encabezado" : "Que permite conducir el cobre más fácilmente?",
+        "opciones" : [
+            "Sonido",
+            "Vibraciones",
+            "Electricidad",
+            "Luz"
+        ],
+        "respuesta" : 2,
+        "seleccionada" : false
+    },
+
+    {
+        
+        "index" : 2,
+        "encabezado" : "Cómo se llama el proceso mediante el cual se reduce las rocas  a un tamaño de 1,5 pulgadas?",
+        "opciones" : [
+            "Changado",
+            "Pulverización",
+            "Sedimentación",
+            "Compresión"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+    {
+
+        "index" : 3,
+        "encabezado" : "Cómo se llama  el proceso mediante el cual a las rocas se le agrega una solución de agua y ácido sulfúrico?",
+        "opciones" : [
+            "Flotación",
+            "Fundición",
+            "Lixiviación",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+	{
+    
+        "index" : 4,
+        "encabezado" : "La etapa donde se genera espuma y cuyas burbujas atrapan el cobre y otros minerales se llama?",
+        "opciones" : [
+            "Fundición",
+            "Flotación",
+            "Destilación",
+            "Exfoliación"
+        ],
+        "respuesta": 1,
+        "seleccionada" : false
+    },
+
+	{
+
+        "index" : 5,
+        "encabezado" : "Cuando el cobre concentrado seco se trata a grandes temperaturas se llama?",
+        "opciones" : [
+            "Fundición",
+            "Ebullición",
+            "Calorificación",
+            "Proceso isotérmico"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 6,
+        "encabezado" : "El proceso donde se reducen las partículas hasta obtener un tamaño máximo de 180 micrones se llama?",
+        "opciones" : [
+            "Pulverización",
+            "Petrificación",
+            "Reducción",
+            "Molienda"
+        ],
+        "respuesta": 3,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 7,
+        "encabezado" : "Por ser maleable y dúctil, el cobre se usa en la fabricación de?",
+        "opciones" : [
+            "Fibra óptica",
+            "Collares",
+            "Alambres",
+            "Antenas de TV"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+	{
+    
+        "index" : 8,
+        "encabezado" : "El sulfato de cobre se usa para eliminar el?",
+        "opciones" : [
+            "Moho",
+            "Óxido",
+            "Termitas",
+            "Corrosión"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+	{
+    
+        "index" : 9,
+        "encabezado" : "El cobre se utiliza para acuñar?",
+        "opciones" : [
+            "Anillos",
+            "Tuercas",
+            "Collares",
+            "Monedas"
+        ],
+        "respuesta": 3,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 10,
+        "encabezado" : "Con que mineral se combina el cobre para  hacer un material resistente a la corrosión?",
+        "opciones" : [
+            "Cromo",
+            "Níquel",
+            "Acero",
+            "Plata"
+        ],
+        "respuesta": 1,
+        "seleccionada" : false
+    },
+    
+	{
+        
+        "index" : 11,
+        "encabezado" : "El cobre se utiliza en la agricultura como?",
+        "opciones" : [
+            "Abono",
+            "Fertilizante",
+            "Fingicida",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    },
+
+	{
+    
+        "index" : 12,
+        "encabezado" : "El cobre como bactericida elimina las?",
+        "opciones" : [
+            "Bacterias",
+            "Manchas",
+            "Plagas",
+            "Ninguna de las anteriores"
+        ],
+        "respuesta": 0,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 13,
+        "encabezado" : "Cuál es el primer país productor de cobre  en el mundo?",
+        "opciones" : [
+            "Ecuador",
+            "Japón",
+            "Perú",
+            "Chile"
+        ],
+        "respuesta": 3,
+        "seleccionada" : false
+    },
+
+	{
+        
+        "index" : 14,
+        "encabezado" : "En donde se encuentra la mina de cobre más grande a cielo abierto?",
+        "opciones" : [
+            "Talca",
+            "Temuco",
+            "Antofagasta",
+            "Pascua"
+        ],
+        "respuesta": 2,
+        "seleccionada" : false
+    }	
+
+]

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>MILLONARIO</title>
+    <style>
+        @import url('./principal.css');
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat|Roboto" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400i|Montserrat" rel="stylesheet">
+</head>
+
+<body>
+    
+    <div class="container">
+
+            <!-- componente panel__comodines -->
+            <div class="panel__base__juego">
+
+                <!-- componente panel de opciones de comodines -->
+                <div class="panel__opciones__comodines">
+                    
+                    <button id="btn__cincuenta" class="btn__comodin">
+                           50/50
+                    </button>
+                    <button id="btn__publico" class="btn__comodin">
+                            <i class="fa fa-users fa-3x" aria-hidden="true"></i>
+                    </button>
+                    <button id="btn__llamada" class="btn__comodin">
+                            <i class="fa fa-phone fa-3x" aria-hidden="true"></i>
+                    </button>
+
+                    <!-- componente panel__continuar -->
+                    <div class="panel__continuar">
+                        <button class="btn__siguiente">
+                            <i class="fa fa-angle-double-right fa-3x" aria-hidden="true"></i>
+                        </button>
+                    </div>
+                    <!-- /componente panel__continuar -->
+
+                </div>
+                <!-- /componente panel de opciones de comodines -->
+                
+                <div class="panel__principal"> 
+                    
+                    <!-- componente panel__preguntas -->
+                    <div class="panel__preguntas">
+                        
+                        <div class="panel__encabezado"></div>
+                        
+                        <div class="panel__opciones">
+                            <ul class="item__opciones__izquierda"></ul>
+                            <ul class="item__opciones__derecha">
+                                <li></li>    
+                            </ul>
+                        </div>   
+                        
+                    </div>
+                    <!-- /componente panel__preguntas -->
+
+                </div>
+                <!-- /componente panel__principal -->
+                <!-- componente de respuestas de comodines -->
+                <div class="panel__respuestas__comodines">
+                    <div class="ayuda__publico">
+                        <canvas id="panel__grafico" height="400"></canvas> 
+                    </div>
+
+                </div>
+                <!-- /componente de respuestas de comodines --> 
+
+            </div>
+
+            <!-- /componente panel__comodines -->  
+            
+            
+             <!-- componente panel__principal -->            
+            <div class="panel__llamada">
+                <div class="respuesta__llamada"></div>
+            </div>
+        
+            <div class="panel__aciertos">
+                <div class="total__aciertos"></div>
+            </div>
+
+
+        </div>
+         <!-- /componente panel__comodines -->
+
+    </div>
+
+    <div class="msg__end">
+        Felicidades Ganaste...! Acertaste todas las preguntas...
+    </div>
+    <!--<audio id="demo1" src="./sonidos/Quien Quiere Ser Millonario Respuesta correcta bueno.mp3"></audio>
+    <audio id="demo2" src="./sonidos/Quien Quiere Ser Millonario - respuesta incorrecta.mp3"></audio>
+    <audio id="demo3" src="./sonidos/Theme Quien Quiere Ser Millonario (siguiente pregunta).mp3"></audio>-->
+
+   
+    <!-- modulo de arranque -->
+    <script src = "./cp.js"></script>
+    <!-- /modulo de arranque -->
+
+</body>
+</html>

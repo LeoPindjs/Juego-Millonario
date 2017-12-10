@@ -1,0 +1,66 @@
+@import url('../css/variables.css');
+
+body{
+   
+    background-image: url(../img/millonario_1.jpeg);
+    background-size: 100vw 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    color:#ddd;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow: hidden;
+
+    position:relative;
+
+}
+
+body:before{
+    content:'';
+    width:100vw;
+    height:100vh;
+    background-color: var(--backgroundFondo);
+    opacity: var(--opacity);
+    position: absolute;
+}
+
+.panel__botones{
+    position:relative;
+    display: flex;
+    flex-direction: row; 
+    justify-content: flex-end;
+    
+}
+
+.panel__temas{
+    width: 100%;
+    position: absolute;
+}
+
+.items__temas{
+    border:2px solid red;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btn__ir{
+    text-decoration-line: none;
+    font-size: 2rem;
+    border-radius:5rem;
+    background-color: var(--btnPrimary);
+    color:#eee;
+    border: none;
+    padding:1rem;
+    margin: 2rem;
+    transition: .2s ease-in-out;
+    
+}
+
+.btn__ir:hover{
+    position: relative;
+    transform: scale(1.2);
+    box-shadow : 2px 2px 2px var(--btnPrimary);
+}
+

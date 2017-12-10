@@ -1,0 +1,61 @@
+
+/*@media (max-width: 1024px) {
+    .facet_sidebar {
+      display: none;
+    }
+  }
+@media (max-width: 768px) {
+    .facet_sidebar {
+      display: none;
+    }
+  }
+@media (max-width: 640px) {
+    .facet_sidebar {
+      display: none;
+    }
+  }
+@media (min-width: 320px) {
+    .panel__base__juego{
+        /*background-color:orange;*/
+        height: 80vh;
+        /*border: var(--borderPanel); */
+        border-radius:10px;
+        padding: 1rem;
+        margin: 0.5rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    /*}
+
+    .panel__opciones__comodines{
+        display: flex;
+        flex-direction: row;
+        order:1;
+        justify-content: space-around;
+        align-items: flex-end;
+        border:var(--borderPanel);
+    }
+    .panel__preguntas{
+       display: flex;
+       flex-direction: row;
+       flex-wrap: wrap;
+       justify-content: space-between;
+   }
+   
+    .panel__opciones {
+        font-size: .9rem;
+        display: flex;
+        flex-direction: column;
+    }
+    .panel__encabezado{
+        font-size: .8rem;
+    }
+    .btn__comodin{
+        width: 60px;
+        height: 60px;
+    }
+    .btn__siguiente{
+        width: 60px;
+        height: 60px;
+    }
+  }*/
