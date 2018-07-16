@@ -1,5 +1,26 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --backgroundBody:#263238;
+    --colorText:#ddd;
+    --borderPanel:1px solid #00bcd4; 
+    --btnPrimary:#00bcd4;
+    --boxShadowsPrimary : 2px 2px 6px #00bcd4;
+    --boxShadowsSecundary : 2px 2px 6px #00E676;
+    --btnSecundary:#00E676;
+    --borderPanelHover:1px solid #ff5722;
+    --backgroundHover: #ff5722;
+    --boxShadowHover:2px 2px 2px #ff5722;
+    --borderNok:1px solid #ff1744;
+    --backgroundNok:#ff1744;
+    --boxShadowNok:3px 3px 3px #ff1744;
+    --borderOk:1px solid #00e676;
+    --backgroundOk:#00e676;
+    --boxShadowOk:3px 3px 3px #00e676;
+    --opacity:.4;
+    --backgroundFondo: #1a237e;
 }
